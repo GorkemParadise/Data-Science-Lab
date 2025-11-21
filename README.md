@@ -1,7 +1,7 @@
-#data-science-lab/
+data-science-lab/
 │
 ├── sql/
-│   ├── pythonSQL.py
+│   └── pythonSQL.py
 │
 ├── numpy/
 │   ├── IntroToNumpy.ipynb
