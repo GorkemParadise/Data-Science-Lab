@@ -24,5 +24,13 @@ data-science-lab/
 │       ├── 7-MergeData2.csv
 │       └── 8-ApplyFunctionData.csv
 │
+│── matplotlib/
+│   ├── IntroToMatplotlib.ipynb
+│   ├── MathplotlibStyles.ipynb
+│
+│── seaborn/
+│   ├── VisualizationSeaborn.ipynb
+│   ├── ***.ipynb
+│
 └── README.md
 ```
