@@ -26,11 +26,11 @@ data-science-lab/
 │
 │── matplotlib/
 │   ├── IntroToMatplotlib.ipynb
-│   ├── MathplotlibStyles.ipynb
+│   ├── MatplotlibStyles.ipynb
 │
 │── seaborn/
 │   ├── VisualizationSeaborn.ipynb
-│   ├── ***.ipynb
+│   ├── BoxPlot.ipynb
 │
 └── README.md
 ```
