@@ -32,5 +32,10 @@ data-science-lab/
 │   ├── VisualizationSeaborn.ipynb
 │   ├── BoxPlot.ipynb
 │
+│── sklearn/
+│   ├── IntroToFeatureEngineering.ipynb
+│   ├── BalancingData.ipynb
+│
+│
 └── README.md
 ```
